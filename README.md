@@ -1,6 +1,5 @@
 # Library Management System (C++)
 
-## Overview
 The **Library Management System** is a terminal-based program designed to automate and manage various library operations efficiently. This project showcases and implements the **linked list** data structure while providing an interactive system for both **patrons** and **administrators**.
 
 ## Features
@@ -27,14 +26,8 @@ The **Library Management System** is a terminal-based program designed to automa
 ### 5. User Authentication
 - Admins require ** password** to access the admin panel.
 - Limited login attempts with security measures.
-.
-
-### 7. Data Persistence
-- Book and patron records are stored in **data files** for persistence.
-- Ensures data is not lost between sessions.
-
-## Installation & Usage
-
+  
 ### Prerequisites
 - A C++ compiler (G++ or MSVC)
 - Any terminal or command prompt
+
