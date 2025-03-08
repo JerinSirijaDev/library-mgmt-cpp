@@ -26,8 +26,3 @@ The **Library Management System** is a terminal-based program designed to automa
 ### 5. User Authentication
 - Admins require ** password** to access the admin panel.
 - Limited login attempts with security measures.
-  
-### Prerequisites
-- A C++ compiler (G++ or MSVC)
-- Any terminal or command prompt
-
