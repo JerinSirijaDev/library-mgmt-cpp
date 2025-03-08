@@ -1,11 +1,8 @@
 # Library Management System (C++)
--------------------------------------------------------------------------------------------------------
 
 The **Library Management System** is a terminal-based program designed to automate and manage various library operations efficiently. This project showcases and implements the **linked list** data structure while providing an interactive system for both **patrons** and **administrators**.
 
--------------------------------------------------------------------------------------------------------
 ## Features
--------------------------------------------------------------------------------------------------------
 
 ### 1. User Roles
 - **Patrons**: Registered users who can borrow and return books.
@@ -29,6 +26,11 @@ The **Library Management System** is a terminal-based program designed to automa
 ### 5. User Authentication
 - Admins require ** password** to access the admin panel.
 - Limited login attempts with security measures.
+
+## Steps to Run:
+1. Clone the repository to local machine.
+2. Navigate to project directory.
+3. Compile and run the project.
 
 -------------------------------------------------------------------------------------------------------
 - **GitHub**: [@JerinSirijaDev](https://github.com/JerinSirijaDev)
